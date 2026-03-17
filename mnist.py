@@ -182,21 +182,21 @@ Gerçek: 5
 
 Model tahmini: 3
 
-Loss: yüksek → çok yanlış!
+Loss: yüksek -> çok yanlış!
 
 Gerçek: 5
 
 Model tahmini: 5
 
-Loss: düşük → doğru!
+Loss: düşük -> doğru!
 
 # **Optimizer (Adam)**
 
 **Loss'a bakarak modelin ağırlıklarını düzeltiyor.**
 
-Loss yüksek → "bir şeyler yanlış, düzelt!"
+Loss yüksek -> "bir şeyler yanlış, düzelt!"
 
-Loss düşük  → "iyi gidiyoruz, devam!"
+Loss düşük  -> "iyi gidiyoruz, devam!"
 
 Şöyle düşün: Loss sınav notu, Optimizer ise notuna göre nasıl çalışacağını söyleyen hoca.
 """
